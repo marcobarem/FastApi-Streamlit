@@ -6,7 +6,7 @@ Este projeto é um sistema de gerenciamento de usuários que utiliza FastAPI par
 
 ## Estrutura do Projeto
 
-'''
+```
 project/
 │
 ├── main.py                # Arquivo principal para rodar a aplicação FastAPI
@@ -16,7 +16,7 @@ project/
 ├── banco.db               # Banco de dados SQLite
 ├── streamlit_app.py       # Interface do usuário com Streamlit
 └── README.md              # Documentação do projeto
-'''
+```
 
 
 ## Requisitos
